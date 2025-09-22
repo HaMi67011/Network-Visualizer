@@ -1,0 +1,4 @@
+animejs 
+tailwindcss 
+postcss 
+autoprefixer
